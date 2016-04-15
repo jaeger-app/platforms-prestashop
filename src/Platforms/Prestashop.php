@@ -1,18 +1,18 @@
 <?php
 /**
- * mithra62
+ * Jaeger
  *
- * @copyright	Copyright (c) 2015, mithra62, Eric Lamb.
- * @link		http://mithra62.com/
- * @version		3.0
- * @filesource 	./mithra62/Platforms/Prestashop.php
+ * @copyright	Copyright (c) 2015-2016, mithra62
+ * @link		http://jaeger-app.com
+ * @version		1.0
+ * @filesource 	./Platforms/Prestashop.php
  */
-namespace mithra62\Platforms;
+namespace JaegerApp\Platforms;
 
-use mithra62\Platforms\AbstractPlatform;
+use JaegerApp\Platforms\AbstractPlatform;
 
 /**
- * mithra62 - Prestashop Platform Object
+ * Jaeger - Prestashop Platform Object
  *
  * The bridge between mithra62 code and Prestashop specific logic
  *
