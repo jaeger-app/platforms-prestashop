@@ -1,6 +1,9 @@
 {
 	"name": "jaeger-app/platforms-prestashop",
 	"description": "A PrestaShop CMS Platform object for use with Jaeger.",
+    "keywords": [
+        "PrestaShop"
+    ],	
 	"require": {
 		"php": ">=5.4.0",
 		"jaeger-app/exceptions": "dev-master",
